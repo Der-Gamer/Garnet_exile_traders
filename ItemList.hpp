@@ -1017,7 +1017,6 @@
 	class rhs_weap_m38								{ quality = 1; price = 500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
-	// Pistols
 	///////////////////////////////////////////////////////////////////////////////
 	class hgun_Pistol_heavy_02_F					{ quality = 1; price = 100; };
 	class hgun_ACPC2_F								{ quality = 1; price = 100; };
@@ -1071,7 +1070,7 @@
 	class O_T_LSV_02_armed_black_F 					{ quality = 3; price = 60000; };
 	class rhsgref_cdf_reg_uaz_dshkm					{ quality = 2; price = 40000; };
 	
-	class rhsusf_m1240a1_m2_iscm_d					{ quality = 3; price = 70000; };
+	class rhsusf_m1240a1_m2_usmc_d					{ quality = 3; price = 70000; };
 	class rhsgref_BRDM2UM_vmf						{ quality = 3; price = 40000; };
 	class rhsgref_BRDM2_vmf							{ quality = 3; price = 70000; };
 	class rhs_btr60_vdv								{ quality = 3; price = 90000; };
