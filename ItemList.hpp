@@ -2243,6 +2243,9 @@
 	// Ifrit
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_Ifrit 								{ quality = 4; price = 23000; };
+	class Exile_Car_Ifrit_Hmg								{ quality = 5; price = 50000; };
+	class Exile_Car_Ifrit_Gmg 								{ quality = 5; price = 50000; };
+
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
