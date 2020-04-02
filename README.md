@@ -7,6 +7,7 @@ RHSAFRF https://steamcommunity.com/sharedfiles/filedetails/?id=843425103<br />
 RHSGREF https://steamcommunity.com/sharedfiles/filedetails/?id=843593391<br />
 RHSSAF https://steamcommunity.com/sharedfiles/filedetails/?id=843632231<br />
 RHSUSAF https://steamcommunity.com/sharedfiles/filedetails/?id=843577117<br />
+(Exile too)
 
 ## How to use?
 In ItemList.hpp are class names of items you want to players be able sell/purchase with prices<br />
