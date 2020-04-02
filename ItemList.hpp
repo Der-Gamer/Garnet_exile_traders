@@ -1061,6 +1061,8 @@
 	class C_SUV_01_F								{ quality = 1; price = 20000; };
 	class I_MRAP_03_F  								{ quality = 3; price = 30000; };
 	class O_MRAP_02_F  								{ quality = 3; price = 30000; };
+	class O_MRAP_02_hmg_F  								{ quality = 5; price = 50000; };
+	class O_MRAP_02_gmg_F  								{ quality = 5; price = 50000; };
 	class RHS_UAZ_MSV_01							{ quality = 1; price = 7000; };
 	class rhsusf_rg33_d								{ quality = 2; price = 50000; };
 	
