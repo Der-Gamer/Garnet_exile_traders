@@ -2169,6 +2169,8 @@ class Uniforms
 			"C_SUV_01_F",
 			"I_MRAP_03_F",
 			"O_MRAP_02_F",
+			"O_MRAP_02_gmg_F",
+			"O_MRAP_02_hmg_F",
 			"RHS_UAZ_MSV_01"
 			
 		};
