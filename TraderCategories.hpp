@@ -2190,7 +2190,7 @@ class Uniforms
 			"B_T_LSV_01_armed_F",
 			"O_T_LSV_02_armed_black_F",
 			"rhsgref_cdf_reg_uaz_dshkm",
-			"rhsusf_m1240a1_m2_iscm_d",
+			"rhsusf_m1240a1_m2_usmc_d",
 			"rhsgref_BRDM2UM_vmf",
 			"rhsgref_BRDM2_vmf",
 			"rhs_btr60_vdv",
